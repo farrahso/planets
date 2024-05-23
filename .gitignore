@@ -1,1 +1,4 @@
 *.csv
+results/
+data/
+*.pdf
